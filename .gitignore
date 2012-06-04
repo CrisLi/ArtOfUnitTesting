@@ -4,6 +4,6 @@
 .project
 .springBeans
 
-/target
+*/target
 */.settings
-/bin
+*/bin
